@@ -46,6 +46,4 @@ Data analysis must address the following questions:
 
 EVTYPE variable) are most harmful with respect to population health?
 
-2. Across the United States, which types of events have the greatest economic
-
-consequences?
+2. Across the United States, which types of events have the greatest economic consequences?
